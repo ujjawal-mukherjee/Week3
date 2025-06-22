@@ -1,12 +1,15 @@
-# React + Vite
+Dashboard
+![page1](https://github.com/user-attachments/assets/bcca11ec-ca49-4900-8c78-c941d8a2b806)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tables
+![page2](https://github.com/user-attachments/assets/6c7d25e8-0a6a-409f-a109-66419b838fae)
 
-Currently, two official plugins are available:
+Charts
+![page3](https://github.com/user-attachments/assets/76b6f6be-ecbe-4489-9b7e-cb6c7eb99570)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Calender
+![age4](https://github.com/user-attachments/assets/fa62e67d-103f-48b6-9a97-b9356f565d35)
 
-## Expanding the ESLint configuration
+Kanban Board
+![page5](https://github.com/user-attachments/assets/006e9a97-4fd2-40eb-a5ae-9ac0f758bc4b)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
