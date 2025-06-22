@@ -1,0 +1,18 @@
+.chart-container {
+    padding: 1rem;
+}
+
+.chart-wrapper {
+    margin-top: 1rem;
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+.chart-container.light {
+    background-color: #ffffff;
+}
+
+.chart-container.dark {
+    background-color: #333;
+}
